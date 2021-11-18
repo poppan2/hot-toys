@@ -9,11 +9,9 @@ app.use(cors())
 app.use(express.urlencoded({extended: true}))
 app.use(express.json())
 
-app.get('/', (req,res)=>{
-    res.json('hello to homePage')
-})
 
-
+const characterController = require('./controllers/characters')
+app.use('/characters', characterController)
 
 app.listen(PORT, ()=>{
     console.log(`We Rooling on Port: ${PORT}`)

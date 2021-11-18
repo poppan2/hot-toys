@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Superman",
+        "movie": "Superman",
+        "series": "DC"
+    },
+    {
+        "name": "Batman",
+        "movie": "The Dark Knight",
+        "series": "DC"
+    },
+    {
+        "name": "Wonder Woman",
+        "movie": "Wonder Woman",
+        "series": "DC"
+    },
+    {
+        "name": "Joker",
+        "movie": "The Dark Knight",
+        "series": "DC"
+    },
+    {
+        "name": "Palpatine",
+        "movie": "The Last Jedi",
+        "series": "Star Wars"
+    },
+    {
+        "name": "Thor",
+        "movie": "Thor",
+        "series": "Marvel"
+    },
+    {
+        "name": "Thanos",
+        "movie": "Infinity War",
+        "series": "Marvel"
+    }
+]
